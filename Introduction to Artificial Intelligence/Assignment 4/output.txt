@@ -1,0 +1,25 @@
+Enter the first row.
+X - O
+Enter the second row.
+X - O
+Enter the third row.
+- - -
+Whose turn is it now?
+X
+How many states did the minimax algorithm evaluate?
+133
+How many states did the alpha-beta pruning algorithm evaluate?
+64
+What is the value of the current state from the perspective of X?
+1
+Assuming both X and O play optimally, does X have a guaranteed win? Is it a tie? Is it a guaranteed loss for X?
+X will win
+Assuming both X and O would play optimally, how would they play till the game ends?
+X . O 
+X . O 
+. . . 
+
+X . O 
+X . O 
+X . . 
+
